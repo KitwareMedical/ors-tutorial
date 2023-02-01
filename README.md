@@ -1,8 +1,20 @@
-# Tutorial for ORS Implants Workshop: Practical considerations for applying and interpreting AI/ML models in orthopedics
+# Tutorial for the ORS 2023 Implants Workshop
+## Practical considerations for applying and interpreting AI/ML models in orthopedics
 
 Abstract
 
-##Authors
+
+
+## Learning objectives
+
+1. Increase familiarity with MONAI
+2. Hands-on example on DL-based image classification
+3. Hands-on example on DL-based image segmentation
+
+## Let's get started
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vicory/ors-tutorial/blob/master/mednist_tutorial.ipynb)
+
+## About the authors
 
 **Jared Vicory**
 
@@ -20,12 +32,3 @@ Jared Vicory, Ph.D. is a staff R&D engineer on Kitware’s Medical Computing loc
 Beatriz “Bea” Paniagua, Ph.D., is an assistant director of Kitware’s Medical Computing Team located in Carrboro, North Carolina. Her projects largely focus on craniomaxillofacial, musculoskeletal, and morphometric image analysis.
 
 [More information](https://www.kitware.com/beatriz-paniagua/)
-
-##Learning objectives
-
-1. Increase familiarity with MONAI
-2. Hands-on example on DL-based image classification
-3. Hands-on example on DL-based image segmentation
-
-##Let's get started
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vicory/ors-tutorial/blob/master/mednist_tutorial.ipynb)
