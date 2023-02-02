@@ -7,12 +7,12 @@ Abstract
 
 ## Learning objectives
 
-1. Increase familiarity with MONAI
+1. Increase familiarity with [MONAI](https://monai.io/)
 2. Hands-on example on DL-based image classification
 3. Hands-on example on DL-based image segmentation
 
 ## Let's get started
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vicory/ors-tutorial/blob/master/mednist_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/mednist_tutorial.ipynb)
 
 ## About the authors
 
