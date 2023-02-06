@@ -79,20 +79,17 @@ Beatriz “Bea” Paniagua, Ph.D., is an assistant director of Kitware’s Medic
 [More information](https://www.kitware.com/beatriz-paniagua/)
 
 
-[1](https://reporter.nih.gov/search/XrZbdnSL80qYrii9Xeij_g/project-details/10375473)
+[1. Fracture Fixation Biomechanics Simulator with Adaptive Virtual Coaching (PI. Lewis)](https://reporter.nih.gov/search/XrZbdnSL80qYrii9Xeij_g/project-details/10375473)
+[2. Bischoff et al. Verification and Validation of an Open Source–Based Morphology Analysis Platform to Support Implant Design](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/7/4/040903/376620/Verification-and-Validation-of-an-Open-Source?redirectedFrom=fulltext)
+[3. Lewis et al. Virtual Simulation for Interactive Visualization of 3D Fracture Fixation Biomechanics](https://pubmed.ncbi.nlm.nih.gov/34370717/)
+[4. Bischoff et al. Incorporating Population-Level Variability in Orthopedic Biomechanical Analysis: A Review](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/136/2/021004/442937/Incorporating-Population-Level-Variability-in?redirectedFrom=fulltext)
 
-[2](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/7/4/040903/376620/Verification-and-Validation-of-an-Open-Source?redirectedFrom=fulltext)
+[5. Vicory et al. Dental microfracture detection using wavelet features and machine learning](https://pubmed.ncbi.nlm.nih.gov/35505894/)
 
-[3](https://pubmed.ncbi.nlm.nih.gov/34370717/)
+[6. Vimort et al. Detection of bone loss via subchondral bone analysis](https://pubmed.ncbi.nlm.nih.gov/29769754/)
 
-[4](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/136/2/021004/442937/Incorporating-Population-Level-Variability-in?redirectedFrom=fulltext)
+[7. Paniagua et al. Diagnostic Index: An open-source tool to classify TMJ OA condyles](https://pubmed.ncbi.nlm.nih.gov/28690356/)
 
-[5](https://pubmed.ncbi.nlm.nih.gov/35505894/)
+[8. Vimort et al. Computing Textural Feature Maps for N-Dimensional images](https://www.insight-journal.org/browse/publication/985)
 
-[6](https://pubmed.ncbi.nlm.nih.gov/29769754/)
-
-[7](https://pubmed.ncbi.nlm.nih.gov/28690356/)
-
-[8](https://www.insight-journal.org/browse/publication/985)
-
-[9](https://www.insight-journal.org/browse/publication/988)
+[9. Vimort et al. Computing Bone Morphometric Feature Maps from 3-Dimensional Images](https://www.insight-journal.org/browse/publication/988)
