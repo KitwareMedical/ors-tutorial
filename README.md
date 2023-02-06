@@ -12,7 +12,9 @@ Abstract
 3. Hands-on example on DL-based image segmentation
 
 ## Let's get started
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/mednist_tutorial.ipynb)
+Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/mednist_tutorial.ipynb)
+
+Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/spleen_segmentation_3d.ipynb)
 
 ## About the authors
 
