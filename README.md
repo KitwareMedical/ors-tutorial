@@ -13,6 +13,8 @@ This tutorial will introduce you to a few examples of deep learning tasks using 
 
 # Project MONAI
 
+https://monai.io/assets/img/MONAI-logo_color_full.png
+
 
 MONAI is a [PyTorch-based](https://pytorch.org/), [open-source](https://github.com/Project-MONAI/MONAI/blob/dev/LICENSE) framework for deep learning in healthcare imaging, part of the [PyTorch Ecosystem](https://pytorch.org/ecosystem/). Its goal is to accelerate the pace of research and development
 by providing a common software foundation and a vibrant community for medical imaging deep learning.
@@ -64,7 +66,7 @@ Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 <img src="https://www.kitware.com/main/wp-content/uploads/2021/11/Jared_Vicory_768x768.jpg"  width="300" height="300" />
 
-Jared Vicory, Ph.D. is a staff R&D engineer on Kitware’s Medical Computing located in Carrboro, North Carolina. He has many years of experience in medical image processing and analysis, focusing on segmentation, statistical shape analysis, and machine learning. He has applied these techniques in a range of target problems including orthopedic [1](https://reporter.nih.gov/search/XrZbdnSL80qYrii9Xeij_g/project-details/10375473) [2](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/7/4/040903/376620/Verification-and-Validation-of-an-Open-Source?redirectedFrom=fulltext) [3](https://pubmed.ncbi.nlm.nih.gov/34370717/) [4](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/136/2/021004/442937/Incorporating-Population-Level-Variability-in?redirectedFrom=fulltext) and dental/craniofacial applications [5](https://pubmed.ncbi.nlm.nih.gov/35505894/).
+Jared Vicory, Ph.D. is a staff R&D engineer on Kitware’s Medical Computing located in Carrboro, North Carolina. He has many years of experience in medical image processing and analysis, focusing on segmentation, statistical shape analysis, and machine learning. He has applied these techniques in a range of target problems including orthopedic \[1,2,3,4\] and dental/craniofacial applications \[5\].
 
 [More information](https://www.kitware.com/jared-vicory/)
 
@@ -73,6 +75,25 @@ Jared Vicory, Ph.D. is a staff R&D engineer on Kitware’s Medical Computing loc
 
 <img src="https://www.kitware.com/main/wp-content/uploads/2021/11/paniagua-300x300-1.jpeg"  width="300" height="300" />
 
-Beatriz “Bea” Paniagua, Ph.D., is an assistant director of Kitware’s Medical Computing Team located in Carrboro, North Carolina. Her projects largely focus on craniomaxillofacial, musculoskeletal, and morphometric image analysis.
+Beatriz “Bea” Paniagua, Ph.D., is an assistant director of Kitware’s Medical Computing Team located in Carrboro, North Carolina. Her projects largely focus on craniomaxillofacial \[5, 6\], musculoskeletal \[7,8,9\], and morphometric image analysis.
 
 [More information](https://www.kitware.com/beatriz-paniagua/)
+
+
+[1](https://reporter.nih.gov/search/XrZbdnSL80qYrii9Xeij_g/project-details/10375473)
+
+[2](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/7/4/040903/376620/Verification-and-Validation-of-an-Open-Source?redirectedFrom=fulltext)
+
+[3](https://pubmed.ncbi.nlm.nih.gov/34370717/)
+
+[4](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/136/2/021004/442937/Incorporating-Population-Level-Variability-in?redirectedFrom=fulltext)
+
+[5](https://pubmed.ncbi.nlm.nih.gov/35505894/)
+
+[6](https://pubmed.ncbi.nlm.nih.gov/29769754/)
+
+[7](https://pubmed.ncbi.nlm.nih.gov/28690356/)
+
+[8](https://www.insight-journal.org/browse/publication/985)
+
+[9](https://www.insight-journal.org/browse/publication/988)
