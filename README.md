@@ -59,6 +59,8 @@ Classification: [![Open In Colab](https://colab.research.google.com/assets/colab
 
 Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/spleen_segmentation_3d.ipynb)
 
+Feel free to customize these scripts to use with your data! Just [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
+
 # About the authors
 
 **Jared Vicory**
