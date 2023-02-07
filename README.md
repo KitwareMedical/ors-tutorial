@@ -81,6 +81,8 @@ Beatriz “Bea” Paniagua, Ph.D., is an assistant director of Kitware’s Medic
 [More information](https://www.kitware.com/beatriz-paniagua/)
 
 
+**References**
+
 [1. Fracture Fixation Biomechanics Simulator with Adaptive Virtual Coaching (PI. Lewis)](https://reporter.nih.gov/search/XrZbdnSL80qYrii9Xeij_g/project-details/10375473)
 [2. Bischoff et al. Verification and Validation of an Open Source–Based Morphology Analysis Platform to Support Implant Design](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/7/4/040903/376620/Verification-and-Validation-of-an-Open-Source?redirectedFrom=fulltext)
 [3. Lewis et al. Virtual Simulation for Interactive Visualization of 3D Fracture Fixation Biomechanics](https://pubmed.ncbi.nlm.nih.gov/34370717/)
