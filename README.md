@@ -53,11 +53,11 @@ Recently MONAI has been integrated with [Amazon HealthLake](https://catalog.us-e
 *   MONAI Medium: https://monai.medium.com/
 
 
-# Hands-on: Let's get started
+# Hands-on tutorial: Let's get started
 
 Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/mednist_tutorial.ipynb)
 
-Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kitwaremedical/ors2023-tutorial/blob/master/spleen_segmentation_3d.ipynb)
+Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KitwareMedical/ors2023-tutorial/blob/master/spleen_segmentation_3d.ipynb)
 
 Feel free to customize these scripts to use with your data! Just [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
 
