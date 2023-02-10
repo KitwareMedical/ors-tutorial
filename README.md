@@ -39,18 +39,18 @@ Recently MONAI has been integrated with [Amazon HealthLake](https://catalog.us-e
 
 ## Resources
 
-*   MONAI Slack: https://forms.gle/QTxJq3hFictp31UM9
-*   MONAI Docs:
- *   MONAI Core: https://docs.monai.io/en/stable/
- *   MONAI Label: https://docs.monai.io/projects/label/en/latest/index.html
- *   MONAI Deploy App SDK: https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/
-*   MONAI Github: https://github.com/Project-MONAI
- *   MONAI Core: https://github.com/Project-MONAI/MONAI
- *   MONAI Label: https://github.com/Project-MONAI/MONAILabel
- *   MONAI Deploy: https://github.com/Project-MONAI/monai-deploy
-*   MONAI YouTube: https://www.youtube.com/c/Project-MONAI
-*   MONAI Twitter: https://twitter.com/ProjectMONAI
-*   MONAI Medium: https://monai.medium.com/
+-   MONAI Slack: https://forms.gle/QTxJq3hFictp31UM9
+-   MONAI Docs:
+    -   MONAI Core: https://docs.monai.io/en/stable/
+    -   MONAI Label: https://docs.monai.io/projects/label/en/latest/index.html
+    -   MONAI Deploy App SDK: https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/
+-   MONAI Github: https://github.com/Project-MONAI
+    -   MONAI Core: https://github.com/Project-MONAI/MONAI
+    -   MONAI Label: https://github.com/Project-MONAI/MONAILabel
+    -   MONAI Deploy: https://github.com/Project-MONAI/monai-deploy
+-   MONAI YouTube: https://www.youtube.com/c/Project-MONAI
+-   MONAI Twitter: https://twitter.com/ProjectMONAI
+-   MONAI Medium: https://monai.medium.com/
 
 
 # Hands-on tutorial: Let's get started
