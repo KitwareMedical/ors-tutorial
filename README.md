@@ -15,7 +15,7 @@ This tutorial will introduce you to a few examples of deep learning tasks using 
 
 <img src="https://monai.io/assets/img/MONAI-logo_color_full.png"/>
 
-MONAI is a [PyTorch-based](https://pytorch.org/), [open-source](https://github.com/Project-MONAI/MONAI/blob/dev/LICENSE) framework for deep learning in healthcare imaging, part of the [PyTorch Ecosystem](https://pytorch.org/ecosystem/). Its goal is to accelerate the pace of research and development
+Medical Open Network for Artificial Intelligence (MONAI) is a [PyTorch-based](https://pytorch.org/), [open-source](https://github.com/Project-MONAI/MONAI/blob/dev/LICENSE) framework for deep learning in healthcare imaging, part of the [PyTorch Ecosystem](https://pytorch.org/ecosystem/). Its goal is to accelerate the pace of research and development
 by providing a common software foundation and a vibrant community for medical imaging deep learning.
 
 ## Why is deep learning succeeding?
